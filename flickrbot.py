@@ -14,7 +14,7 @@
 
 import flickr_api,random,tweepy,argparse
 
-from flickrbotini import *
+from botini import *
 
 #what Flickr user are we looking for?
 id="paul_clarke"
